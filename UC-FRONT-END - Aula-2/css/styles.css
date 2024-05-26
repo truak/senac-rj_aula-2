@@ -1,0 +1,24 @@
+html {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main-div{
+   background-color: rgb(233, 233, 139);
+}
+
+.geo-card {
+    height: 300px;
+    width: 150px;
+    background-color: rgb(159, 177, 173);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-align: center;
+}
+
+.geo-card-img {
+    width: 140px;
+}
